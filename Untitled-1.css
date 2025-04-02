@@ -1,0 +1,139 @@
+
+body{
+    background-color: #EED3B1;
+    width: 100%;
+    height: 100%;
+    margin-top: -1px;
+    margin-left: -1px;
+}
+.Navigatiebalk{
+width: 100%;
+height: 75px;
+background-color: rgb(71, 102, 59);
+top: 0px;
+display: flex;
+justify-content: space-between;
+align-items: center;
+}
+.naam_balk{
+    color: rgb(238, 211, 177);
+    align-self:center;
+    margin-left: 10px;
+}
+.naam_balk_1{
+    color: rgb(48, 243, 100);
+}
+.TA{
+height: 50px; ;
+width: 50px; ;
+background-color: rgb(238, 211, 177);
+border-radius: 10px;
+font-weight: 900;
+display: flex;
+justify-content: center;
+align-items: center;
+box-shadow: 0 10px 50px 0 rgb(238, 211, 177) ;
+margin-left: 50%;
+}
+a{
+    padding: 5px;
+    border-style: solid;
+    border-width: 3px;
+    border-color:rgb(31, 69, 41);
+    background-color: rgb(238, 211, 177); 
+    border-radius: 10px;
+    font-size: 10px;
+    font-weight: 900;
+    margin: 5px;
+    
+   
+}
+.link1{
+    padding: 5px;
+    border-style: solid;
+    border-width: 3px;
+    border-color:rgb(31, 69, 41);
+    background-color: rgb(238, 211, 177); 
+    border-radius: 10px;
+    font-size: 10px;
+    font-weight: 900;
+    margin: 5px;
+    color: rgb(31, 69, 41);
+}
+.link2{
+    padding: 5px;
+    border-style: solid;
+    border-width: 3px;
+    border-color:rgb(238, 211, 177);
+    background-color: rgb(31, 69, 41); 
+    border-radius: 10px;
+    font-size: 10px;
+    font-weight: 900;
+    margin: 5px;
+    color: rgb(238, 211, 177);
+    
+}
+h1{
+    color: rgb(31, 69, 41);
+}
+
+.aangedoudeWoorden{
+    color: rgb(64, 131, 82);
+    font-weight: 800;
+    vertical-align: top;
+}
+.letterkleur{
+    color: rgb(71, 102, 59);
+    margin-left: 30px;
+   
+}
+.TABLE{
+  margin-left: 20px; 
+}
+.voogle{
+    height: 150px;
+    width: 150px;
+    background-color: rgb(71, 102, 59);
+    border-radius: 100%;
+}
+.voogle:hover{
+    animation-name: voogle;
+    animation-duration: 4s;
+}
+hr{
+    width: 300px;
+    height: 5px;
+
+    background-color:rgb(71, 102, 59) ;
+    margin-left: 0px;
+
+}
+.fap{
+    width: 30px;
+    border: rgb(64, 131, 82);
+    border-radius: 1px;
+    border-style: groove;
+}
+.phone{
+    display: flex;
+    flex-direction:row;
+ 
+    
+}
+.nummer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-left: 10px;
+}
+.site{
+    display: flex;
+    flex-direction:row;
+}
+.web{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-left: 10px;
+}
+

@@ -1,0 +1,23 @@
+body{
+    background-color: #EED3B1;
+    justify-items: center;
+}
+.linkk{
+    padding: 5px;
+    border-style: solid;
+    border-width: 3px;
+    border-color:rgb(31, 69, 41);
+    background-color: rgb(238, 211, 177); 
+    border-radius: 10px;
+    font-size: 10px;
+    font-weight: 900;
+    margin: auto;
+    color: rgb(31, 69, 41);
+}
+.emogies{
+    display: flex;
+    height: 400px;
+    width: 400px;
+    justify-content: center;
+    margin-top: 200px;
+}
